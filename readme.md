@@ -8,9 +8,9 @@
 
 ## guide
 
-this is a list about resource provided by xjtlu, you really should look through all the item to remember what 'xjtlu' could provide. if you want to search for an item, please use the method below.
+this is a list about resource provided by xjtlu. you really should look through all the item to remember what 'xjtlu' could provide. if you want to search for an item, please use the method below.
 
-这是一个关于 '西浦' 给我们提供的资源的列表, 我建议你浏览一遍所有的内容, 让自己记住 '西浦' 到底提供了什么. 当然, 你也可以使用以下方式搜索你想要的内容.
+这是一个关于 '西浦' 给我们提供的资源的列表. 建议你浏览一遍所有的内容, 让自己对 '西浦' 的资源有一个印象. 当然, 你也可以使用以下方式搜索你想要的内容.
 
 - **android chrome**: 'more options' -> 'Find in page'
 - **ios safari**: 'sharer' -> 'Find on Page'
