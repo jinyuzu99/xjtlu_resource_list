@@ -2,7 +2,7 @@
 
 > people may not know their need unless they know what is provided.
 >
-> 如果人们不知道有什么, 那他们有可能也不知道自己想要什么.
+> 如果人们不知道有什么, 那他们也有可能不知道自己想要什么.
 >
 > -- [sayo melu](https://sayo-melu.xyz/about)
 
@@ -74,3 +74,7 @@
 ## collaborator
 
 - [sayo melu](https://sayo-melu.xyz/about)
+
+## license
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
