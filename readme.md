@@ -69,7 +69,7 @@
 - xjtlu external mentor handbook
 - library mannual for student
 - [Profeprofessional Services - XJTLU](https://www.xjtlu.edu.cn/en/about/professional-services)
-- [新生干货 | 西浦必备联系方式 - 西浦小灯兔](https://mp.weixin.qq.com/s/KMAOtiHCPUvO87AXYl9_wQ)
+- [新生干货 西浦必备联系方式 - 西浦小灯兔](https://mp.weixin.qq.com/s/KMAOtiHCPUvO87AXYl9_wQ)
 
 ## collaborator
 
