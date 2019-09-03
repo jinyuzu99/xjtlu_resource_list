@@ -8,15 +8,14 @@
 
 ## general
 
-| english                      | chinese        | description                                                                                                                                              | access                                                                                                            |
-| ---------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| one-stop service             | 一站式服务     | you can ask for anything here.                                                                                                                           | 🏠 cb 115e<br>📞 0512-88161854<br>✉️ onestop@xjtlu.edu.cn<br>🔗 http://portal.xjtlu.edu.cn/sites/ssp/onestop.aspx |
-| career service               | 就业服务       | career guidance,<br>further study consulting,<br>employment practise<br>innovation & entrepreneurship,<br>external mentor project,<br>graduate dispatch. | 🏠 cb 102e<br/>📞 0512-81888309<br/>✉️ careers@xjtlu.edu.cn<br/>🔗 http://careers.xjtlu.edu.cn                    |
-| accommodation service        | 宿舍服务       | local student dorm service.                                                                                                                              | 🏠 cb 113e<br/>📞 0512-88161857<br/>✉️ accommodation@xjtlu.edu.cn                                                 |
-|                              | 体育教务服务   |                                                                                                                                                          | 📞 0512-88167871<br>✉️ pec@xjtlu.edu.cn                                                                           |
-| career development office    | 就业发展办公室 |                                                                                                                                                          | 🏠 cb 106e<br/>📞 0512-81884891<br/>✉️ mentors@xjtlu.edu.cn                                                       |
-|                              |                |                                                                                                                                                          |                                                                                                                   |
-| software installinstallation | 软件安装       |                                                                                                                                                          | cb f4                                                                                                             |
+| english                   | chinese        | description                                                  | access                                                       |
+| ------------------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| map                       | 地图           | map of xjtlu whole campus.                                   | 🔗 https://www.xjtlu.edu.cn/en/assets/files/maps/XJTLU-campus-map.pdf |
+| one-stop service          | 一站式服务     | you can ask for anything here.                               | 🏠 cb 115e<br>📞 0512-88161854<br>✉️ onestop@xjtlu.edu.cn<br>🔗 http://portal.xjtlu.edu.cn/sites/ssp/onestop.aspx |
+| career service            | 就业服务       | career guidance,<br>further study consulting,<br>employment practise<br>innovation & entrepreneurship,<br>external mentor project,<br>graduate dispatch. | 🏠 cb 102e<br/>📞 0512-81888309<br/>✉️ careers@xjtlu.edu.cn<br/>🔗 http://careers.xjtlu.edu.cn |
+| accommodation service     | 宿舍服务       | local student dorm service.                                  | 🏠 cb 113e<br/>📞 0512-88161857<br/>✉️ accommodation@xjtlu.edu.cn |
+| career development office | 就业发展办公室 |                                                              | 🏠 cb 106e<br/>📞 0512-81884891<br/>✉️ mentors@xjtlu.edu.cn     |
+|                           | 体育教务服务   |                                                              | 📞 0512-88167871<br>✉️ pec@xjtlu.edu.cn                        |
 
 ## website
 
@@ -30,12 +29,11 @@
 
 ## library
 
-| english                    | chinese    | description | access                         |
-| -------------------------- | ---------- | ----------- | ------------------------------ |
-|                            |            |             |                                |
-| thesis, dissertation, exam | 论文, 试卷 |             | 🔗 http://etd.lib.xjtlu.edu.cn |
+### general
 
-
+| english                    | chinese    | description                                   | access                        |
+| -------------------------- | ---------- | --------------------------------------------- | ----------------------------- |
+| thesis, dissertation, exam | 论文, 试卷 | find thesis, dissertation, exam paper online. | 🔗 http://etd.lib.xjtlu.edu.cn |
 
 ### database
 
@@ -51,14 +49,12 @@
 | ------- | ------- | ----------- | ------ |
 | ielts   | 雅思    |             |        |
 | toefl   | 托福    |             |        |
-|         |         |             |        |
 
 ## other
 
-| english | chinese  | description | access |
-| ------- | -------- | ----------- | ------ |
-| patent  | 专利申请 |             |        |
-|         |          |             |        |
+| english         | chinese  | description | access |
+| --------------- | -------- | ----------- | ------ |
+| patent applying | 专利申请 |             |        |
 
 ## reference
 
