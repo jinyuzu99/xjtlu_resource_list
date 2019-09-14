@@ -2,11 +2,12 @@
 
 > people may not know their need unless they know what is provided.
 >
-> 如果人们不知道有什么, 那他们也有可能不知道自己想要什么.
+> 如果人们不知道有什么, 那他们也可能不知道自己想要什么.
 >
 > -- [sayo melu](https://sayo-melu.xyz/about)
 
 ## table of content
+
 - ['xjtlu' resource list ('西浦' 资源列表)](#xjtlu-resource-list-%e8%a5%bf%e6%b5%a6-%e8%b5%84%e6%ba%90%e5%88%97%e8%a1%a8)
   - [table of content](#table-of-content)
   - [guide](#guide)
@@ -33,21 +34,35 @@ this is a list about resource provided by xjtlu. you really should look through 
 - **macos**: [command] + [f]
 - **windows**: [ctrl] + [f]
 
+access info
+
+- 🏠: address
+- 📞: phone number
+- 💬: wechat account
+- ✉️: email address
+- 🔗: web address
+
 ## resource list
 
 ### general
 
-| english                   | chinese        | description                                                  | access                                                       |
-| ------------------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| map                       | 地图           | map of 'xjtlu' whole campus.                                 | 🔗 https://www.xjtlu.edu.cn/en/assets/files/maps/XJTLU-campus-map.pdf |
-| one-stop service          | 一站式服务     | you can ask for anything here.                               | 🏠 cb 115e<br>📞 0512-88161854<br>✉️ onestop@xjtlu.edu.cn<br>🔗 http://portal.xjtlu.edu.cn/sites/ssp/onestop.aspx |
-| career service            | 就业服务       | career guidance,<br>further study consulting,<br>employment practise<br>innovation & entrepreneurship,<br>external mentor project,<br>graduate dispatch. | 🏠 cb 102e<br>🏠 library 3f career corner<br/>📞 0512-81888309<br/>✉️ careers@xjtlu.edu.cn<br/>🔗 http://careers.xjtlu.edu.cn<br>➕ [more](detail/career-service.md) |
-| accommodation service     | 宿舍服务       | local student dorm service.                                  | 🏠 cb 113e<br/>📞 0512-88161857<br/>✉️ accommodation@xjtlu.edu.cn |
-| student academic service  | 学生学术服务   | provide a broad rang of<br>academic service, direct or indirect to student. | 🏠 cb f8<br/>📞 0512-88161230<br/>✉️ academicservices@xjtlu.edu.cn |
-| student club support      | 学生社团支持   |                                                              |                                                              |
-| career development office | 就业发展办公室 |                                                              | 🏠 cb 106e<br/>📞 0512-81884891<br/>✉️ mentors@xjtlu.edu.cn     |
-| pe service                | 体育教务服务   |                                                              | 📞 0512-88167871<br>✉️ pec@xjtlu.edu.cn                        |
-| insurance                 | 保险           | xjtlu student medical insurance, click more to view detail.  | 📞 0512-88161854<br>✉️ insurance@xjtlu.edu.cn<br>➕ [more](/detail/insurance.md) |
+| english                      | chinese          | description                                                  | access                                                       |
+| ---------------------------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| map                          | 地图             | map of 'xjtlu' whole campus.                                 | 🔗 [click to view](https://www.xjtlu.edu.cn/en/assets/files/maps/XJTLU-campus-map.pdf) |
+| one-stop service             | 一站式服务       | you can ask for anything here.                               | 🏠 cb 115e<br>📞 0512-88161854<br>💬 xjtlu_studentservice<br>✉️ onestop@xjtlu.edu.cn<br>🔗 [click to view](http://portal.xjtlu.edu.cn/sites/ssp/onestop.aspx) |
+| career service               | 就业服务         | career guidance,<br>further study consulting,<br>employment practise<br>innovation & entrepreneurship,<br>external mentor project,<br>graduate dispatch. | 🏠 cb 102e<br>🏠 library 3f career corner<br>📞 0512-81888309<br>✉️ careers@xjtlu.edu.cn<br>🔗 [careers.xjtlu.edu.cn](http://careers.xjtlu.edu.cn)<br>➕ [more](detail/career-service.md) |
+| external mentor project      | 校外导师项目     | external mentor help student gain more insights about industry and life experience from high level expert. | 🏠 cb 106e<br>📞 0512-81884891<br>✉️ mentors@xjtlu.edu.cn       |
+| accommodation service        | 宿舍服务         | local student dorm service.                                  | 🏠 cb 113e<br>📞 0512-88161857<br>💬 xjtlu-sac<br>✉️ accommodation@xjtlu.edu.cn |
+| student academic service     | 学生学术服务     | provide a broad rang of<br>academic service, direct or indirect to student. | 🏠 cb f8<br>📞 0512-88161230<br>✉️ academicservices@xjtlu.edu.cn |
+| student club support         | 学生社团支持     |                                                              | 🏠 cb 256<br>📞 0512-81883297<br>💬 xjtlu-sos-news & xjtlu-club<br>✉️ scs@xjtlu.edu.cn<br>🔗 [club.xjtlu.edu.cn](http://club.xjtlu.edu.cn) |
+| library service              | 图书馆服务       |                                                              | 🏠 cb 3f<br>📞 0512-88161290<br>📞 0512-88161291<br>💬 xjtlu_library<br>✉️ library-service@xjtlu.edu.cn<br>🔗 [lib.xjtlu.edu.cn](http://lib.xjtlu.edu.cn) |
+| it service                   | 计算机服务       |                                                              | 🏠 cb 4f (software)<br>🏠 cb 956a<br>📞 0512-88161250<br>💬 xjtlu-it<br>✉️ it@xjtlu.edu.cn<br>🔗 [guide](https://guide.xjtlu.edu.cn/it-guide-for-student.html)<br>🔗 [faq](https://guide.xjtlu.edu.cn/faq-it-student.html) |
+| xjtlu global                 | 西浦国际         |                                                              | 🏠 cb 115e<br>📞 0512-88160406<br>📞 0512-88164746<br>✉️ global@xjtlu.edu.cn<br>🔗 [global.xjtlu.edu.cn](http://global.xjtlu.edu.cn) |
+| continuing language support  | 语言继续支持服务 |                                                              | 🏠 fb 4f<br>✉️ csc@xjtlu.edu.cn                                |
+| counselling service          | 心理咨询         |                                                              | 🏠 cb 285<br>📞 0512-88161815<br>✉️ counsellingservice@xjtlu.edu.cn |
+| student development advising | 学生成长顾问     |                                                              | ✉️ sda@xjtlu.edu.cn<br>                                       |
+| pe service                   | 体育服务         |                                                              | 📞 0512-88167871<br>✉️ pec@xjtlu.edu.cn                        |
+| insurance                    | 保险             | xjtlu student medical insurance, click more to view detail.  | 📞 0512-88161854<br>✉️ insurance@xjtlu.edu.cn<br>➕ [more](/detail/insurance.md) |
 
 ### website
 
@@ -94,7 +109,8 @@ this is a list about resource provided by xjtlu. you really should look through 
 - xjtlu student support guide
 - xjtlu external mentor handbook
 - library mannual for student
-- [Profeprofessional Services - XJTLU](https://www.xjtlu.edu.cn/en/about/professional-services)
+- [profeprofessional services - xjtlu](https://www.xjtlu.edu.cn/en/about/professional-services)
+- [service guide - xjtlu](https://guide.xjtlu.edu.cn/service-guide.html)
 - xjtlu email
 - [新生干货 西浦必备联系方式 - 西浦小灯兔](https://mp.weixin.qq.com/s/KMAOtiHCPUvO87AXYl9_wQ)
 
