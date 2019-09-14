@@ -66,34 +66,34 @@ access info
 
 ### website
 
-| english        | chinese    | description                                                                                     | access                                       |
-| -------------- | ---------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| google         | 谷歌       | access google with ipv6 ('xjtlu wi-fi' only)                                                    | 🔗 https://www.google.com/ncr                |
-| google scholar | 谷歌学术   | access google scholar with ipv6 ('xjtlu' wi-fi' only)                                           | 🔗 https://scholar.google.com/               |
-| wi-fi clean    | wi-fi 清理 | 'xjtlu wi-fi' accept only **3 device in 1 account**,<br>clean your wi-fi mac address to fix it. | 🔗 http://wificlean.xjtlu.edu.cn:8080/portal |
+| english        | chinese    | description                                                  | access                                                       |
+| -------------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| google         | 谷歌       | access google with ipv6 ('xjtlu wi-fi' only)                 | 🔗 [google.com/ncr](https://www.google.com/ncr)               |
+| google scholar | 谷歌学术   | access google scholar with ipv6 ('xjtlu' wi-fi' only)        | 🔗 [scholar.google.com](https://scholar.google.com)           |
+| wi-fi clean    | wi-fi 清理 | 'xjtlu wi-fi' accept only **3 device in 1 account**,<br>clean your wi-fi mac address to fix it. | 🔗 [click to view](http://wificlean.xjtlu.edu.cn:8080/portal) |
 
 ### library
 
 #### general
 
-| english                    | chinese    | description                                   | access                         |
-| -------------------------- | ---------- | --------------------------------------------- | ------------------------------ |
-| thesis, dissertation, exam | 论文, 试卷 | find thesis, dissertation, exam paper online. | 🔗 http://etd.lib.xjtlu.edu.cn |
+| english                    | chinese    | description                                   | access                                                |
+| -------------------------- | ---------- | --------------------------------------------- | ----------------------------------------------------- |
+| thesis, dissertation, exam | 论文, 试卷 | find thesis, dissertation, exam paper online. | 🔗 [etd.lib.xjtlu.edu.cn](http://etd.lib.xjtlu.edu.cn) |
 
 #### database
 
-| english   | chinese              | description                                                                           | access                                         |
-| --------- | -------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| all       | 全部                 | massive database,<br>you can search for thesis, journal, etc.                         | 🔗 http://libguides.lib.xjtlu.edu.cn/az.php    |
-| ↓ example | ↓ 示例               | here are some example,<br>see **all** to view more.                                   |                                                |
-| ieee      | 电气和电子工程师协会 | 'the institute of electrical and electronics engineers'<br>a professional association | 🔗 https://ieeexplore-ieee-org.ez.xjtlu.edu.cn |
+| english   | chinese              | description                                                  | access                                                       |
+| --------- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| all       | 全部                 | massive database,<br>you can search for thesis, journal, etc. | 🔗 [click to view](http://libguides.lib.xjtlu.edu.cn/az.php)  |
+| ↓ example | ↓ 示例               | here are some example,<br>see **all** to view more.          |                                                              |
+| ieee      | 电气和电子工程师协会 | 'the institute of electrical and electronics engineers'<br>a professional association | 🔗 [click to view](https://ieeexplore-ieee-org.ez.xjtlu.edu.cn) |
 
 ### study abroad
 
-| english      | chinese        | description                                                  | access                             |
-| ------------ | -------------- | ------------------------------------------------------------ | ---------------------------------- |
-| chinese only | 一亩三分地论坛 | [unofficial] 美国加拿大留学申请, 工作就业, 英语考试, 学习生活信噪比最高的网站. | 🔗 https://www.1point3acres.com/bbs |
-| chinese only | 西浦留学圈     | [unofficial] 为西浦学生开发的留学资讯小程序. (开发中)        |                                    |
+| english      | chinese        | description                                                  | access                                              |
+| ------------ | -------------- | ------------------------------------------------------------ | --------------------------------------------------- |
+| chinese only | 一亩三分地论坛 | [unofficial] 美国加拿大留学申请, 工作就业, 英语考试, 学习生活信噪比最高的网站. | 🔗 [click to view](https://www.1point3acres.com/bbs) |
+| chinese only | 西浦留学圈     | [unofficial] 为西浦学生开发的留学资讯小程序. (开发中)        |                                                     |
 
 ### other
 
