@@ -1,4 +1,4 @@
-# career service
+# Career Service
 
 13:00-15:00p.m. Every Wednesday & Friday afternoon: Career Consultation Mentor Group
 

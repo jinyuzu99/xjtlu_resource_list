@@ -1,4 +1,4 @@
-# insurance
+# Insurance
 
 ## XJTLU Student Medical Insurance Introduction 2019 
 
