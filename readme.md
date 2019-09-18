@@ -4,7 +4,7 @@
 >
 > 如果人们不知道有什么, 那他们也可能不知道自己想要什么.
 >
-> -- [sayo melu](https://sayo-melu.xyz/about)
+> -- [sayo melu](https://github.com/sayo-melu)
 
 ## Table of Content
 
@@ -114,9 +114,9 @@ Access Info
 - XJTLU Student Email
 - [新生干货 西浦必备联系方式 - 西浦小灯兔](https://mp.weixin.qq.com/s/KMAOtiHCPUvO87AXYl9_wQ)
 
-## Collaborator
+## Special Thanks
 
-- [sayo melu](https://sayo-melu.xyz/about)
+- [Jiaren Cai](https://github.com/sriting)
 
 ## License
 
