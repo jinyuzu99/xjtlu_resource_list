@@ -25,14 +25,9 @@
 
 ## Guide
 
-This is a list about resource provided by xjtlu. you really should look through all the item to remember what 'xjtlu' could provide. if you want to search for an item, please use the method below. 
+This is a resource list for student in XJTLU. You really should look through all the item to remember what is provided, then you may pick up something when you need it in the future.
 
-这是一个关于 '西浦' 给我们提供的资源的列表. 建议你浏览一遍所有的内容, 让自己对 '西浦' 的资源有一个印象. 当然你也可以使用以下方式搜索你想要的内容.
-
-- Android Chrome: 'More options' -> 'Find in page'
-- iOS Safari: 'Share' -> 'Find on Page'
-- macOS: [command] + [F]
-- Windows: [Ctrl] + [F]
+这是一份给西浦学生的资源列表. 建议你浏览一遍所有的内容, 让自己对这些资源有一个印象, 在将来你需要它们时候总会想起些什么.
 
 Access Info
 
@@ -51,16 +46,16 @@ Access Info
 | Map                          | 地图             | Map of XJTLU whole campus.                                   | 🔗 [Click to view](https://www.xjtlu.edu.cn/en/assets/files/maps/XJTLU-campus-map.pdf) |
 | One-stop Service             | 一站式服务       | Ask for anything here.                                       | 🏠 CB 115E<br>📞 0512-88161854<br>💬 xjtlu_studentservice<br>✉️ onestop@xjtlu.edu.cn<br>🔗 [Click to view](http://portal.xjtlu.edu.cn/sites/ssp/onestop.aspx) |
 | Career Service               | 就业服务         | Career Guidance,<br>Further Study Consulting,<br>Employment Practise<br>Innovation & Entrepreneurship,<br>External Mentor Project,<br>Graduate Dispatch. | 🏠 CB 102E<br>🏠 Library 3F Career Corner<br>📞 0512-81888309<br>✉️ careers@xjtlu.edu.cn<br>🔗 [careers.xjtlu.edu.cn](http://careers.xjtlu.edu.cn)<br>➕ [More](detail/career-service.md) |
-| External Mentor Project      | 校外导师项目     | External mentor help student gain more insights about industry and life experience from high level expert. | 🏠 CB 106E<br>📞 0512-81884891<br>✉️ mentors@xjtlu.edu.cn       |
+| External Mentor Project      | 校外导师项目     | External mentor help student gain more insights about industry and life experience from high level expert. | 🏠 CB 106E<br>📞 0512-81884891<br>💬 emsec2019<br>✉️ mentors@xjtlu.edu.cn |
 | Accommodation Service        | 宿舍服务         | Local student dorm service.                                  | 🏠 CB 113E<br>📞 0512-88161857<br>💬 xjtlu-sac<br>✉️ accommodation@xjtlu.edu.cn |
 | Student Academic Service     | 学生学术服务     | Provide a broad rang of<br>academic service, direct or indirect to student. | 🏠 CB F8<br>📞 0512-88161230<br>✉️ academicservices@xjtlu.edu.cn |
-| Student Club Support         | 学生社团支持     |                                                              | 🏠 CB 256<br>📞 0512-81883297<br>💬 xjtlu-sos-news & xjtlu-club<br>✉️ scs@xjtlu.edu.cn<br>🔗 [club.xjtlu.edu.cn](http://club.xjtlu.edu.cn) |
-| Library Service              | 图书馆服务       |                                                              | 🏠 CB 3F<br>📞 0512-88161290<br>📞 0512-88161291<br>💬 xjtlu_library<br>✉️ library-service@xjtlu.edu.cn<br>🔗 [lib.xjtlu.edu.cn](http://lib.xjtlu.edu.cn) |
-| IT Service                   | 计算机服务       |                                                              | 🏠 CB 4F (Software)<br>🏠 CB 956A<br>📞 0512-88161250<br>💬 xjtlu-it<br>✉️ it@xjtlu.edu.cn<br>🔗 [Guide](https://guide.xjtlu.edu.cn/it-guide-for-student.html)<br>🔗 [FAQ](https://guide.xjtlu.edu.cn/faq-it-student.html) |
-| XJTLU Global                 | 西浦国际         |                                                              | 🏠 CB 115E<br>📞 0512-88160406<br>📞 0512-88164746<br>✉️ global@xjtlu.edu.cn<br>🔗 [global.xjtlu.edu.cn](http://global.xjtlu.edu.cn) |
-| Continuing Language Support  | 语言继续支持服务 |                                                              | 🏠 FB 4F<br>✉️ csc@xjtlu.edu.cn                                |
-| Counselling Service          | 心理咨询         |                                                              | 🏠 CB 285<br>📞 0512-88161815<br>✉️ counsellingservice@xjtlu.edu.cn |
-| Student Development Advising | 学生成长顾问     |                                                              | ✉️ sda@xjtlu.edu.cn<br>                                       |
+| Student Club Support         | 学生社团支持     | Not only enrich students' holistic university experience, but also provide opportunities for the comprehensive development with regard to knowledge, capability, vault and philosophy system. | 🏠 CB 256<br>📞 0512-81883297<br>💬 xjtlu-sos-news & xjtlu-club<br>✉️ scs@xjtlu.edu.cn<br>🔗 [club.xjtlu.edu.cn](http://club.xjtlu.edu.cn) |
+| Library Service              | 图书馆服务       | Provid a wide range of library resource, books, journals, electronic databases and articles. It plays a key role as a research support and learning cent for the university. | 🏠 CB 3F<br>📞 0512-88161290<br>📞 0512-88161291<br>💬 xjtlu_library<br>✉️ library-service@xjtlu.edu.cn<br>🔗 [lib.xjtlu.edu.cn](http://lib.xjtlu.edu.cn) |
+| IT Service                   | 计算机服务       | Category ranges from printing service, software installment, network, IT support to student activity. | 🏠 CB 4F (Software)<br>🏠 CB 956A<br>📞 0512-88161250<br>💬 xjtlu-it<br>✉️ it@xjtlu.edu.cn<br>🔗 [Guide](https://guide.xjtlu.edu.cn/it-guide-for-student.html)<br>🔗 [FAQ](https://guide.xjtlu.edu.cn/faq-it-student.html) |
+| XJTLU Global                 | 西浦国际         | Recruitment, admissions, university partnership, service & support. | 🏠 CB 115E<br>📞 0512-88160406<br>📞 0512-88164746<br>✉️ global@xjtlu.edu.cn<br>🔗 [global.xjtlu.edu.cn](http://global.xjtlu.edu.cn) |
+| Continuing Language Support  | 语言继续支持服务 | Help you with any English language and study skills issues you may find during your studies. | 🏠 FB 4F<br>✉️ csc@xjtlu.edu.cn                                |
+| Counselling Service          | 心理咨询         | Provide a confidential service for students experiencing complex and/or significant mental health difficulties. | 🏠 CB 285<br>📞 0512-88161815<br>✉️ counsellingservice@xjtlu.edu.cn |
+| Student Development Advising | 学生成长顾问     | Intend to coordinate the university resources better and provide relevant support and guidance to students more effectively. | ✉️ sda@xjtlu.edu.cn<br>                                       |
 | PE Service                   | 体育服务         |                                                              | 📞 0512-88167871<br>✉️ pec@xjtlu.edu.cn                        |
 | Insurance                    | 保险             | XJTLU student medical insurance, click '**more**' to view detail. | 📞 0512-88161854<br>✉️ insurance@xjtlu.edu.cn<br>➕ [More](/detail/insurance.md) |
 
@@ -87,13 +82,16 @@ Access Info
 | All       | 全部                 | Massive database,<br>you can search for thesis, journal, etc. | 🔗 [Click to view](http://libguides.lib.xjtlu.edu.cn/az.php)  |
 | ↓ Example | ↓ 示例               | Here are some example,<br>see **all** to view more.          |                                                              |
 | IEEE      | 电气和电子工程师协会 | the Institute of Electrical and Electronics Engineers        | 🔗 [Click to view](https://ieeexplore-ieee-org.ez.xjtlu.edu.cn) |
+| Nature    | 自然 杂志            | Nature is the world’s leading multidisciplinary science journal. | 🔗 [Click to view](http://www.nature.com.ez.xjtlu.edu.cn/)    |
+| Science   | 科学 杂志            | Science is the peer-reviewed academic journal of the AAAS and one of the world's top academic journals. | 🔗 [Click to view](https://science-sciencemag-org.ez.xjtlu.edu.cn/) |
+| CNKI      | 中国知网             | [chinese only] 中国知网知识发现网络平台—面向海内外读者提供中国学术文献、外文文献、学位论文、报纸、会议、年鉴、工具书等各类资源统一检索、统一导航、在线阅读和下载服务。 | 🔗 [Click to view](http://p85-cnki.sdll.cn.ez.xjtlu.edu.cn/kns55/) |
 
 ### Study Abroad
 
 | English      | Chinese        | Description                                                  | Access                                              |
 | ------------ | -------------- | ------------------------------------------------------------ | --------------------------------------------------- |
-| Chinese Only | 一亩三分地论坛 | [unofficial] 美国加拿大留学申请, 工作就业, 英语考试, 学习生活信噪比最高的网站. | 🔗 [Click to view](https://www.1point3acres.com/bbs) |
-| Chinese Only | 西浦留学圈     | [unofficial] [developing]为西浦学生开发的留学资讯小程序.     |                                                     |
+| Chinese Only | 一亩三分地论坛 | [unofficial] [chinese only]美国加拿大留学申请, 工作就业, 英语考试, 学习生活信噪比最高的网站. | 🔗 [Click to view](https://www.1point3acres.com/bbs) |
+| Chinese Only | 西浦留学圈     | [unofficial] [chinese only]为西浦学生开发的留学资讯小程序.   |                                                     |
 
 ### Other
 
