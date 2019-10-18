@@ -20,7 +20,6 @@
     - [Study Abroad](#study-abroad)
     - [Other](#other)
   - [Reference](#reference)
-  - [Collaborator](#collaborator)
   - [License](#license)
 
 ## Guide
@@ -56,7 +55,7 @@ Access Info
 | Continuing Language Support  | 语言继续支持服务 | Help you with any English language and study skills issues you may find during your studies. | 🏠 FB 4F<br>✉️ csc@xjtlu.edu.cn                                |
 | Counselling Service          | 心理咨询         | Provide a confidential service for students experiencing complex and/or significant mental health difficulties. | 🏠 CB 285<br>📞 0512-88161815<br>✉️ counsellingservice@xjtlu.edu.cn |
 | Student Development Advising | 学生成长顾问     | Intend to coordinate the university resources better and provide relevant support and guidance to students more effectively. | ✉️ sda@xjtlu.edu.cn<br>                                       |
-| PE Service                   | 体育服务         |                                                              | 📞 0512-88167871<br>✉️ pec@xjtlu.edu.cn                        |
+| PE Service                   | 体育服务         | Physical Education Centre, Military Training, Physical Test  | 📞 0512-88167871<br>✉️ pec@xjtlu.edu.cn                        |
 | Insurance                    | 保险             | XJTLU student medical insurance, click '**more**' to view detail. | 📞 0512-88161854<br>✉️ insurance@xjtlu.edu.cn<br>➕ [More](/detail/insurance.md) |
 
 ### Website
@@ -66,6 +65,7 @@ Access Info
 | Google         | 谷歌       | Access google with IPv6. (XJTLU Wi-Fi only)                  | 🔗 [google.com/ncr](https://www.google.com/ncr)               |
 | Google Scholar | 谷歌学术   | Access google scholar with IPv6. (XJTLU Wi-Fi only)          | 🔗 [scholar.google.com](https://scholar.google.com)           |
 | Wi-Fi Clean    | Wi-Fi 清理 | XJTLU Wi-Fi accept only **3 device in 1 account**,<br>clean your Wi-Fi MAC address to fix it. | 🔗 [Click to view](http://wificlean.xjtlu.edu.cn:8080/portal) |
+| ICE            | ICE        | note:<br>1. you can do [self enrollment](asset/document/self-enrollment-student.pdf). | 🔗 [ice.xjtlu.edu.cn](http://)                                |
 
 ### Library
 
@@ -93,6 +93,7 @@ Access Info
 | Chinese Only | 一亩三分地论坛 | [unofficial] [chinese only]美国加拿大留学申请, 工作就业, 英语考试, 学习生活信噪比最高的网站. | 🔗 [Click to view](https://www.1point3acres.com/bbs) |
 | Chinese Only | 西浦留学圈     | [unofficial] [chinese only]为西浦学生开发的留学资讯小程序.   |                                                     |
 
+
 ### Other
 
 | English         | Chinese  | Description | Access |
@@ -111,10 +112,6 @@ Access Info
 - [Service Guide - XJTLU](https://guide.xjtlu.edu.cn/service-guide.html)
 - XJTLU Student Email
 - [新生干货 西浦必备联系方式 - 西浦小灯兔](https://mp.weixin.qq.com/s/KMAOtiHCPUvO87AXYl9_wQ)
-
-## Special Thanks
-
-- [Jiaren Cai](https://github.com/sriting)
 
 ## License
 
