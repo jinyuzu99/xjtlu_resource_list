@@ -8,16 +8,16 @@ Based on the updated medical insurance policy of Industrial Park Fund Management
 2. [Commercial supplementary medical insurance](http://www.sipspf.org.cn/publish/main/434/2012/20121129092913099644544/20121129092913099644544_.html): It is organized by Suzhou Industrial Park Fund Management Center which costs students 15 RMB per person per year. Insurance duration is from annual January 1st to December 31st (new students’ accounting date is from the registration day to December 31st next year).
 3. Commercial insurance: It is funded by university who purchases from insurance company after tendering procedures. The cost is 45 per person per year. Insurance duration is from September 1st to August 31st next year. (New students’ accounting date is from the registration day to university).
 
-To know detailed regulations of 'Commercial supplementary medical insurance', you can refer to the link below:  [XJTLU Local Student Insurance Q&A](http://portal.xjtlu.edu.cn/sites/ssp/Shared Documents/onestop.doc/学生保险常见问答 2018版 XJTLU Student Insurance.pdf)
+To know detailed regulations of 'Commercial supplementary medical insurance', you can refer to the link below:  [XJTLU Local Student Insurance Q&A](/asset/document/student-insurance-2018.pdf)
 
 **Notes:**
 
 1. The medical fees will be deducted from the Non-tuition Fee System at the end of the academic year.
 2. 2019 Intake students who received medical treatment after the enrollment in either Suzhou or previous residence place should submit the medical materials to our one-stop front desk for reimbursement. The university will deliver these document to SIP Provident Fund Center in the next year after your citizen cards were done, so please wait patiently.
 3. Old students who received medical treatment in their hometowns in summer holiday are recommended to submit the receipts and relevant medical documents to One-stop Center. Since the documents will be only processed manually, please submit the documents **before 27th Sep**.
-4.The materials required for reimbursement should contain:
-	A. Outpatient: invoices (if treatment occurred in household residence, please submit the copy of household register)
-	B. Inpatient: invoice, detailed expense, discharge summary, and both sides copy of National ID, Bank card(if treatment occurred in household residence, please submit the copy of household register)
+4. The materials required for reimbursement should contain:
+  A. Outpatient: invoices (if treatment occurred in household residence, please submit the copy of household register)
+  B. Inpatient: invoice, detailed expense, discharge summary, and both sides copy of National ID, Bank card(if treatment occurred in household residence, please submit the copy of household register)
 5. According to the related policy on medical insurance manually reimbursement, only the invoices within 3 months can be reimbursed successfully. So please hand in your medical invoice to one-stop as soon as possible. 
 6. If SIPSPF makes modifications on the policies, please be subject to them.
 
@@ -30,11 +30,13 @@ To know detailed regulations of 'Commercial supplementary medical insurance', yo
 
 ## 西浦学生保险种类介绍及报销说明
 
-1. 我校学生具有以下三份保险，三份保险相互补充
-   1.1 [基础医疗保险](http://www.sipspf.org.cn/publish/main/198/2011/20110629103335222434497/20110629103335222434497_.html)：由苏州园区公积金中心组织，学生本人出资。根据[园区最新政策](https://www.sipspf.org.cn/publish/main/141/2017/20171019110631873688565/20171019110631873688565_.html)，费用为每人每年 120 元，保险期限为每年的 1 月 1 日至 12 月 31 日（新生的起算日可放宽到入学当年的开学日）。
-   1.2 [工业园区商业补充医疗保险](http://www.sipspf.org.cn/publish/main/434/2012/20121129092913099644544/20121129092913099644544_.html)：由苏州园区公积金中心组织，学生本人出资。费用为每人每年 23 元，保险期限为每年的 1 月 1 日至 12 月 31 日（新生的起算日可放宽到入学当年的开学日）。
-   1.3 **商业保险：**作为医疗保险的补充，由学校出资，通过招标向保险公司购买。保险期限为每年的 9 月 1 日至次年的 8 月 31 日（新生的起算日可放宽到入学当年的开学日）。
-2. 关于具体的保障范围与赔付标准、学生常见的问题请点击链接：**[《西交利物浦大学保险常见问答》](http://portal.xjtlu.edu.cn/sites/ssp/Shared Documents/onestop.doc/学生保险常见问答 2018版 XJTLU Student Insurance.pdf)
+我校学生具有以下三份保险，三份保险相互补充
+
+1. [基础医疗保险](http://www.sipspf.org.cn/publish/main/198/2011/20110629103335222434497/20110629103335222434497_.html)：由苏州园区公积金中心组织，学生本人出资。根据[园区最新政策](https://www.sipspf.org.cn/publish/main/141/2017/20171019110631873688565/20171019110631873688565_.html)，费用为每人每年 120 元，保险期限为每年的 1 月 1 日至 12 月 31 日（新生的起算日可放宽到入学当年的开学日）。
+2. [工业园区商业补充医疗保险](http://www.sipspf.org.cn/publish/main/434/2012/20121129092913099644544/20121129092913099644544_.html)：由苏州园区公积金中心组织，学生本人出资。费用为每人每年 23 元，保险期限为每年的 1 月 1 日至 12 月 31 日（新生的起算日可放宽到入学当年的开学日）。
+3. **商业保险**：作为医疗保险的补充，由学校出资，通过招标向保险公司购买。保险期限为每年的 9 月 1 日至次年的 8 月 31 日（新生的起算日可放宽到入学当年的开学日）。
+
+关于具体的保障范围与赔付标准、学生常见的问题请点击链接：**[《西交利物浦大学保险常见问答》](asset/document/student-insurance-2018.pdf)**
 
 注意事项：
 
