@@ -1,23 +1,17 @@
-# XJTLU Resource List (西浦资源列表)
+# XJTLU Resource List (西交利物大学浦资源列表)
 
-> people may not know their need unless they know what is provided.
+> People may not know their need, unless they know what is provided.
 > 如果人们不知道有什么, 那他们也可能不知道自己想要什么.
 
-## Table of Content
-
-- [XJTLU Resource List (西浦资源列表)](#xjtlu-resource-list-%e8%a5%bf%e6%b5%a6%e8%b5%84%e6%ba%90%e5%88%97%e8%a1%a8)
-  - [Table of Content](#table-of-content)
-  - [Guide](#guide)
-  - [Resource List](#resource-list)
-    - [General](#general)
-    - [Website](#website)
-    - [Library](#library)
-      - [General](#general-1)
-      - [Database](#database)
-    - [Study Abroad](#study-abroad)
-    - [Other](#other)
-  - [Reference](#reference)
-  - [License](#license)
+- [Guide](#guide)
+- [Resource List](#resource-list)
+  - [General](#general)
+  - [Website](#website)
+  - [Library](#library)
+    - [General](#general-1)
+    - [Database](#database)
+  - [Study Abroad](#study-abroad)
+  - [Other](#other)
 
 ## Guide
 
@@ -25,13 +19,13 @@ This is a resource list for student in XJTLU. You really should look through all
 
 这是一份给西浦学生的资源列表. 建议你浏览一遍所有的内容, 让自己对这些资源有一个印象, 在将来你需要它们时候总会想起些什么.
 
-Access Info
-
-- 🏠: Address
-- 📞: Phone number
-- 💬: WeChat account
-- ✉️: Email address
-- 🔗: Web address
+> Access Info
+> 
+> - 🏠 Address
+> - 📞 Phone number
+> - 💬 WeChat account
+> - ✉️ Email address
+> - 🔗 Web address
 
 ## Resource List
 
