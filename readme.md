@@ -33,8 +33,8 @@ This is a resource list for student in XJTLU. You really should look through all
 
 | English                      | Chinese          | Description                                                  | Access                                                       |
 | ---------------------------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Map                          | 地图             | Map of XJTLU whole campus.                                   | 🔗 [Click to view](https://www.xjtlu.edu.cn/en/assets/files/maps/XJTLU-campus-map.pdf) |
-| One-stop Service             | 一站式服务       | Ask for anything here.                                       | 🏠 CB 115E<br>📞 [0512-8816-1854](tel:0512-8816-1854)<br>💬 xjtlu_studentservice<br>✉️ onestop@xjtlu.edu.cn<br>🔗 [Click to view](http://portal.xjtlu.edu.cn/sites/ssp/onestop.aspx) |
+| Map                          | 地图             | Map of XJTLU whole campus.                                   | 🔗 [Link](https://www.xjtlu.edu.cn/en/assets/files/maps/XJTLU-campus-map.pdf) |
+| One-stop Service             | 一站式服务       | Ask for anything here.                                       | 🏠 CB 115E<br>📞 [0512-8816-1854](tel:0512-8816-1854)<br>💬 xjtlu_studentservice<br>✉️ onestop@xjtlu.edu.cn<br>🔗 [Link](http://portal.xjtlu.edu.cn/sites/ssp/onestop.aspx) |
 | Career Service               | 就业服务         | Career Guidance,<br>Further Study Consulting,<br>Employment Practise<br>Innovation & Entrepreneurship,<br>External Mentor Project,<br>Graduate Dispatch. | 🏠 CB 102E<br>🏠 Library 3F Career Corner<br>📞 [0512-8188-8309](tel:0512-8188-8309)<br>✉️ careers@xjtlu.edu.cn<br>🔗 [careers.xjtlu.edu.cn](http://careers.xjtlu.edu.cn)<br>➕ [More](detail/career-service.md) |
 | External Mentor Project      | 校外导师项目     | External mentor help student gain more insights about industry and life experience from high level expert. | 🏠 CB 106E<br>📞 [0512-8188-4891](tel:0512-8188-4891)<br>💬 emsec2019<br>✉️ mentors@xjtlu.edu.cn |
 | Accommodation Service        | 宿舍服务         | Local student dorm service.                                  | 🏠 CB 113E<br>📞 [0512-8816-1857](tel:0512-8816-1857)<br>💬 xjtlu-sac<br>✉️ accommodation@xjtlu.edu.cn |
@@ -55,7 +55,7 @@ This is a resource list for student in XJTLU. You really should look through all
 | -------------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Google         | 谷歌       | Access google with IPv6. (XJTLU Wi-Fi only)                  | 🔗 [google.com/ncr](https://www.google.com/ncr)               |
 | Google Scholar | 谷歌学术   | Access google scholar with IPv6. (XJTLU Wi-Fi only)          | 🔗 [scholar.google.com](https://scholar.google.com)           |
-| Wi-Fi Clean    | Wi-Fi 清理 | XJTLU Wi-Fi accept only **3 device in 1 account**,<br>clean your Wi-Fi MAC address to fix it. | 🔗 [Click to view](http://wificlean.xjtlu.edu.cn:8080/portal) |
+| Wi-Fi Clean    | Wi-Fi 清理 | XJTLU Wi-Fi accept only **3 device in 1 account**,<br>clean your Wi-Fi MAC address to fix it. | 🔗 [Link](http://wificlean.xjtlu.edu.cn:8080/portal) |
 | ICE            | ICE        | note:<br>1. you can do [self enrollment](/asset/document/self-enrollment-student.pdf). | 🔗 [ice.xjtlu.edu.cn](https://ice.xjtlu.edu.cn)               |
 
 ### Library
@@ -70,18 +70,18 @@ This is a resource list for student in XJTLU. You really should look through all
 
 | English   | Chinese              | Description                                                  | Access                                                       |
 | --------- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| All       | 全部                 | Massive database,<br>you can search for thesis, journal, etc. | 🔗 [Click to view](http://libguides.lib.xjtlu.edu.cn/az.php)  |
+| All       | 全部                 | Massive database,<br>you can search for thesis, journal, etc. | 🔗 [Link](http://libguides.lib.xjtlu.edu.cn/az.php)  |
 | ↓ Example | ↓ 示例               | Here are some example,<br>see **all** to view more.          |                                                              |
-| IEEE      | 电气和电子工程师协会 | the Institute of Electrical and Electronics Engineers        | 🔗 [Click to view](https://ieeexplore-ieee-org.ez.xjtlu.edu.cn) |
-| Nature    | 自然 杂志            | Nature is the world’s leading multidisciplinary science journal. | 🔗 [Click to view](http://www.nature.com.ez.xjtlu.edu.cn/)    |
-| Science   | 科学 杂志            | Science is the peer-reviewed academic journal of the AAAS and one of the world's top academic journals. | 🔗 [Click to view](https://science-sciencemag-org.ez.xjtlu.edu.cn/) |
-| CNKI      | 中国知网             | [chinese only] 中国知网知识发现网络平台—面向海内外读者提供中国学术文献、外文文献、学位论文、报纸、会议、年鉴、工具书等各类资源统一检索、统一导航、在线阅读和下载服务。 | 🔗 [Click to view](http://p85-cnki.sdll.cn.ez.xjtlu.edu.cn/kns55/) |
+| IEEE      | 电气和电子工程师协会 | the Institute of Electrical and Electronics Engineers        | 🔗 [Link](https://ieeexplore-ieee-org.ez.xjtlu.edu.cn) |
+| Nature    | 自然 杂志            | Nature is the world’s leading multidisciplinary science journal. | 🔗 [Link](http://www.nature.com.ez.xjtlu.edu.cn/)    |
+| Science   | 科学 杂志            | Science is the peer-reviewed academic journal of the AAAS and one of the world's top academic journals. | 🔗 [Link](https://science-sciencemag-org.ez.xjtlu.edu.cn/) |
+| CNKI      | 中国知网             | [chinese only] 中国知网知识发现网络平台—面向海内外读者提供中国学术文献、外文文献、学位论文、报纸、会议、年鉴、工具书等各类资源统一检索、统一导航、在线阅读和下载服务。 | 🔗 [Link](http://p85-cnki.sdll.cn.ez.xjtlu.edu.cn/kns55/) |
 
 ### Study Abroad
 
 | English      | Chinese        | Description                                                  | Access                                              |
 | ------------ | -------------- | ------------------------------------------------------------ | --------------------------------------------------- |
-| Chinese Only | 一亩三分地论坛 | [unofficial] [chinese only] 美国加拿大留学申请, 工作就业, 英语考试, 学习生活信噪比最高的网站. | 🔗 [Click to view](https://www.1point3acres.com/bbs) |
+| Chinese Only | 一亩三分地论坛 | [unofficial] [chinese only] 美国加拿大留学申请, 工作就业, 英语考试, 学习生活信噪比最高的网站. | 🔗 [Link](https://www.1point3acres.com/bbs) |
 | Chinese Only | 西浦留学圈     | [unofficial] [chinese only] 为西浦学生开发的留学资讯小程序.  | 💬 西浦留学圈                                        |
 
 
