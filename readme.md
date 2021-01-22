@@ -1,10 +1,7 @@
 # XJTLU Resource List (西浦资源列表)
 
 > people may not know their need unless they know what is provided.
->
 > 如果人们不知道有什么, 那他们也可能不知道自己想要什么.
->
-> -- [sayo melu](https://github.com/sayo-melu)
 
 ## Table of Content
 
