@@ -20,7 +20,7 @@ This is a resource list for student in XJTLU. You really should look through all
 这是一份给西浦学生的资源列表. 建议你浏览一遍所有的内容, 让自己对这些资源有一个印象, 在将来你需要它们时候总会想起些什么.
 
 > Access Info
-> 
+>
 > - 🏠 Address
 > - 📞 Phone number
 > - 💬 WeChat account
@@ -47,7 +47,7 @@ This is a resource list for student in XJTLU. You really should look through all
 | Counselling Service          | 心理咨询         | Provide a confidential service for students experiencing complex and/or significant mental health difficulties. | 🏠 CB 285<br>📞 [0512-8816-1815](tel:0512-8816-1815)<br>✉️ counsellingservice@xjtlu.edu.cn<br>➕ [External Resources](/detail/external-resources-for-mental-health-service.md) |
 | Student Development Advising | 学生成长顾问     | Intend to coordinate the university resources better and provide relevant support and guidance to students more effectively. | ✉️ sda@xjtlu.edu.cn                                           |
 | PE Service                   | 体育服务         | Physical Education Centre, Military Training, Physical Test  | 📞 [0512-8816-7871](tel:0512-8816-1815)<br>✉️ pec@xjtlu.edu.cn |
-| Insurance                    | 保险             | XJTLU student medical insurance, click '**Detail**' to view detail. | 📞 [0512-8816-1854](tel:0512-8816-1854)<br>✉️ insurance@xjtlu.edu.cn<br>➕ [Detail](/detail/insurance.md) |
+| Insurance                    | 保险             | XJTLU student medical insurance, click '**Detail**' to view detail. | 📞 [0512-8816-1854](tel:0512-8816-1854)<br>✉️ insurance@xjtlu.edu.cn<br>➕ [Detail](asset/document/insurance) |
 
 ### Website
 
