@@ -1,6 +1,6 @@
 # External Resources for Mental Health Service
 
-1. Suzhou Guangji Hospital (Closest) 
+1. Suzhou Guangji Hospital (Closest)
   - Address: 11 Guangqian Road, Xiangcheng District, SuZhou
   - TEL: [+86-512-6533-1356](tel:+86-512-6533-1356)
   - [http://www.szgjyy.com](http://www.szgjyy.com)
@@ -21,7 +21,7 @@
   - 地址：苏州市相城区广前路11号
   - 预约挂号：关注微信公众号“苏州广济医院“——进入“门诊服务“，进行预约挂号
   - [http://www.szgjyy.com](http://www.szgjyy.com)
-2. 苏州大学附属第一医院（十梓街） 
+2. 苏州大学附属第一医院（十梓街）
   - 地址：苏州市十梓街188号
   - 预约挂号：关注微信公众号“苏州大学附属第一医院“一一进入“就医指南“一一点击院门诊“，注册后，点击“十梓街院区“——预约挂号"神经内科（神经心理门诊）
   - [http://fyy.sdfyy.cn](http://fyy.sdfyy.cn)
@@ -32,7 +32,7 @@
 4. 上海精神卫生中心
   - 地址：上海市宛平南路600号
   - 预约挂号：关注微信公众号“上海精神卫生中心”，进行预约挂号
-  - [http://www.smhc.org.cn](http://www.smhc.org.cn) 
+  - [http://www.smhc.org.cn](http://www.smhc.org.cn)
 5. 上海和睦家医院  (提供中、英文服务)
   - 地址：上海市长宁区仙霞路1139号
   - 预约中心电话：[400-639-3900](tel:+86-400-639-3900)
@@ -48,4 +48,4 @@
 
 Source
 
-- [External Resource for Mental Health Service](asset/image/mental-health-service-original.jpeg) edited by [sayo melu](https://github.com/sayo-melu).
+- [External Resource for Mental Health Service](asset/image/mental_health_service_original.jpg)
